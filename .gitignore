@@ -1,0 +1,11 @@
+# Ignorar dataset grande
+Proyecto2/dataset/creditcard.csv
+
+# Ignorar otros archivos pesados o temporales
+*.zip
+*.mp4
+*.exe
+*.bin
+*.pkl
+*.log
+__pycache__/

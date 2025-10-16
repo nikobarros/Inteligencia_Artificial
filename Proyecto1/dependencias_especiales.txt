@@ -1,0 +1,2 @@
+# Algunas dependencias externas
+pip install tqdm # Establece una barra de progreso para ciertos procedimientos
