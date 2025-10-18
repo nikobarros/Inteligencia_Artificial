@@ -16,7 +16,7 @@ if not os.path.exists("creditcard.csv"):
     rmfile = Path("dataset/creditcardfraud.zip")
     if rmfile.exists():
         rmfile.unlink()
-        
+
 print("Dataset descargado correctamente")
 
 csv_path = Path("dataset/creditcard.csv")
